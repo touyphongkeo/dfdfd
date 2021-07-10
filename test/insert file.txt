@@ -1,0 +1,134 @@
+1.hh_year
+2.province_id
+3.district_id
+4.village_id
+
+villname
+villnameeng
+
+5.village_head_name
+6.village_head_gender
+7.village_head_phone
+8.total_number_families
+9.total_poputation
+10.total_population_female
+11.collecting_date
+12.collector_name
+13 collector_phone
+14 collector_img_filename_sig    
+15 collector_img_url_filename_sig 
+16 responder_name
+17 responder_phone
+18 responder_img_filename_sig         
+19 responder_img_url_filename_sig 
+20 inspector_date
+21 inspector_name
+22 inspector_phone
+23 inspector_img_filename_sig   
+24 inspector_img_url_filename_sig  
+25 have_high_school
+26 have_health_services
+27 source_clean_water
+28 source_clean_water
+29 roads_transportation
+30 telecommunication_services
+31 barter_market_exchange
+32 grid_system
+33 have_survey_70_percent
+34 good_home_plan
+35 disseminated_public
+36 demarcation_3_full
+37 building_built_according_plan
+38 plots_land_registration
+49 Roads_villages_districts
+50 center_each_area
+51 alleys_stone_clay
+52 main_production_road
+53 roads_covered_regulations
+54 irrigation_standards
+55 system_agricultural_production
+56 system_water_80
+57 water_groups_sustainable
+58 electrified_system_techniques
+59 source_electricity_other
+60 regular_electricity95
+61 have_nursery
+62 have_kindergarten
+63 have_complete_primary_school
+64 have_elementary_school
+65 infrastructure_system75
+66 access_convenient_health
+67 venue_multipurpose_room
+68 bulletin_information
+69 markets_exchanges_sale
+70 rules_market_exchange
+71 postal_telecommunication
+72 telephone_network_signal
+73 internet_network
+74 local_radio_signals
+75 local_television_signals
+76 no_family_home
+77 average_income_not5_6
+78 working_80_percent_age_job
+79 workers_developed_welfare
+80 Establish_group_effectively
+81 group_production_goods
+82 kindergarten_hygienic_facilities
+83 children_aged3_5years_kindergarten55_percent
+84 children_aged5_increased_80_percent
+85 dropout1_rate_reduced_8_5_percent
+86 Primary_rate_increased_98_5_percent 
+
+87 Index_reach0_97_1_03_2020
+88 primary_schools64_2020_85
+89 overall_level_increased78
+90 romotion5th_1st91_3_100
+91 dropout5_grade1_7_7_2
+92 high_school_sanitation
+93 age_group15_45_completed_lower_secondary
+94 workers15_20_percent_job_training
+95 model_health
+96 social_security
+97 traditional_medicine_herbal
+98 traditional_medicine_garden
+100 proportion_cultural_families85_percent
+101 Have_been_culturalcon_secutive2
+102 equality_gender_women_children
+103 model_health_households85_percent
+104 green_clean_beautiful
+105 production_food_safety
+
+106 sewage_solid_environment
+107 Large_animal_technically_grounds
+108 livestock_farms_guarantee80_percent
+109 protected_forests_trees
+110 inspecting_limiting_wildfires_process
+
+111 have_protected_areas
+112 village_have_been_educated_politic
+113 base_transparent_strong
+114 administration_strong
+ 
+115 cooperated_village
+116 model_law_enforcement
+117 good3_veterans6_maintained
+118 womens_house_good3
+119 guest_houses4		111
+
+120 party_base_administration
+121 people_vigilant_protect
+122 guards_safe_organization
+123 disaster_vacuate_areas
+124 have_strong90_pewrcent_defense_families
+
+125 party_village_administration_security
+126 vigilant_maintain_security
+127 lao_peoples_revolutionary
+128 every_family_has_family
+
+129 citizens15_age_95_percent_had_cards
+130 departments_families_security
+131 additional_Information_f2
+132 location_Latitude
+133 location_Longitude
+134 UserId
